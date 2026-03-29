@@ -1,6 +1,6 @@
 cask "duckify" do
-  version "1.1.6"
-  sha256 "e4ed394b0be373aadf3df54906a26979a3d80814f17aa5b1983073f86073adc5"
+  version "1.1.7"
+  sha256 "8e32333c9eb35496bb10c05f543058afd06565c65a21acb7264f14ff3b067a88"
 
   url "https://github.com/draugvar/Duckify/releases/download/v#{version}/duckify-macos-universal.tar.gz"
 
