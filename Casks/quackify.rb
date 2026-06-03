@@ -1,6 +1,6 @@
 cask "quackify" do
-  version "1.2.0"
-  sha256 "ee029d759795e6fa4a6f3a896fcff52ba9f0dd797768bd1aefb3e7a67f1e5089"
+  version "1.2.1"
+  sha256 "922cba4edfe1671624dea03b5ed4a4fd5a49641169e683c76d34afde2b4ebc5f"
 
   url "https://github.com/draugvar/Duckify/releases/download/v#{version}/quackify-macos-universal.tar.gz"
 
